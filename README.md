@@ -2,7 +2,7 @@
 Basic Requirements:-
 * MongoDb- Install mongodb GUI on your machine.
 * Nodejs - Install nodejs.
-* Yarn- If npm fails yarn works as a fail safe.
+* Yarn- If npm fails yarn does the job.
 
 steps to run the application:-
 1. get inside the project directory.
